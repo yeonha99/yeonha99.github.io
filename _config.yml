@@ -20,7 +20,7 @@ title                    : "휴먼에러"
 title_separator          : "|"
 subtitle                 : "코드는 잘못이 없다."
 name                     : "여니벌레"
-description              : "24살 잡식성 Back-End 개발자"
+description              : "24살 Back-End 개발자"
 url                      : "https://yeonha99.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "여니벌레"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "잡식성 Back-End Developer"
+  bio              : "24살 Back-End Developer"
   location         : "South Korea"
   email            :
   links:
